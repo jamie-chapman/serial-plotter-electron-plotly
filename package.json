@@ -1,0 +1,15 @@
+{
+  "name": "serial-plotter-3d",
+  "version": "1.0.0",
+  "description": "App to plot 3d data from the serial port. Using Plotly",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Jamie Chapman",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^3.0.5",
+    "npm": "^6.4.1"
+  }
+}

@@ -1,0 +1,9 @@
+.plot-container {
+
+}
+
+.control-panel {
+	position: fixed;
+    bottom: 50px;
+    width: 100%;
+}
